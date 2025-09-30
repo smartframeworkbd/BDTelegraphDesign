@@ -24,6 +24,7 @@ The layout is fully responsive, lightweight, and customizable, designed for digi
 ---
 
 ## 📂 Project Structure
+```
 BDTelegraphDesign/
 │── index.html
 │── /assets
@@ -31,6 +32,7 @@ BDTelegraphDesign/
 │ ├── js/ # JavaScript files
 │ ├── images/ # Images & icons
 │ ├── fonts/ # Custom fonts
+```
 ---
 
 ## 📦 Installation & Usage
