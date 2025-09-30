@@ -24,3 +24,10 @@ The layout is fully responsive, lightweight, and customizable, designed for digi
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 📦 Installation & Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/smartframeworkbd/BDTelegraphDesign.git
